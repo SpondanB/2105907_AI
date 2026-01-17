@@ -81,7 +81,7 @@ The canvas displays:
 As generations progress:
 
 * ~10% similarity → random abstract shapes
-  ![11% similarity](/Output/11.png)
+  ![9% similarity](/Output/9.png)
 * ~50% similarity → visible structure emerges
   ![51% similarity](/Output/51.png)
 * ~75%+ similarity → blurred but recognizable approximation
